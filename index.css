@@ -1,0 +1,11 @@
+header {
+    display: block;
+    background: black;
+    color: red;
+    height: 90px;
+}
+headerContents {
+justify-content: space-around;
+align-items: center;
+
+}
